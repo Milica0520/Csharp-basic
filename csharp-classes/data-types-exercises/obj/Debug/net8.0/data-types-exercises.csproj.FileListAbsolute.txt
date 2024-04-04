@@ -1,0 +1,15 @@
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\data-types-exercises\bin\Debug\net8.0\data-types-exercises.exe
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\data-types-exercises\bin\Debug\net8.0\data-types-exercises.deps.json
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\data-types-exercises\bin\Debug\net8.0\data-types-exercises.runtimeconfig.json
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\data-types-exercises\bin\Debug\net8.0\data-types-exercises.dll
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\data-types-exercises\bin\Debug\net8.0\data-types-exercises.pdb
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\data-types-exercises\obj\Debug\net8.0\data-types-exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\data-types-exercises\obj\Debug\net8.0\data-types-exercises.AssemblyInfoInputs.cache
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\data-types-exercises\obj\Debug\net8.0\data-types-exercises.AssemblyInfo.cs
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\data-types-exercises\obj\Debug\net8.0\data-types-exercises.csproj.CoreCompileInputs.cache
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\data-types-exercises\obj\Debug\net8.0\data-types-exercises.sourcelink.json
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\data-types-exercises\obj\Debug\net8.0\data-types-exercises.dll
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\data-types-exercises\obj\Debug\net8.0\refint\data-types-exercises.dll
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\data-types-exercises\obj\Debug\net8.0\data-types-exercises.pdb
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\data-types-exercises\obj\Debug\net8.0\data-types-exercises.genruntimeconfig.cache
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\data-types-exercises\obj\Debug\net8.0\ref\data-types-exercises.dll
