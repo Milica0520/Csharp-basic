@@ -1,0 +1,15 @@
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\Stars\bin\Debug\net8.0\Stars.exe
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\Stars\bin\Debug\net8.0\Stars.deps.json
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\Stars\bin\Debug\net8.0\Stars.runtimeconfig.json
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\Stars\bin\Debug\net8.0\Stars.dll
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\Stars\bin\Debug\net8.0\Stars.pdb
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\Stars\obj\Debug\net8.0\Stars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\Stars\obj\Debug\net8.0\Stars.AssemblyInfoInputs.cache
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\Stars\obj\Debug\net8.0\Stars.AssemblyInfo.cs
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\Stars\obj\Debug\net8.0\Stars.csproj.CoreCompileInputs.cache
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\Stars\obj\Debug\net8.0\Stars.sourcelink.json
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\Stars\obj\Debug\net8.0\Stars.dll
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\Stars\obj\Debug\net8.0\refint\Stars.dll
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\Stars\obj\Debug\net8.0\Stars.pdb
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\Stars\obj\Debug\net8.0\Stars.genruntimeconfig.cache
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\Stars\obj\Debug\net8.0\ref\Stars.dll

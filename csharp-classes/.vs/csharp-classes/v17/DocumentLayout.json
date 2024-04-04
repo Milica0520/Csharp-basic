@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\micad\\OneDrive\\Desktop\\csharp-local\\csharp-classes\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6899E424-4AAC-41FA-B55F-1655DDD5D5E5}|Stars\\Stars.csproj|c:\\users\\micad\\onedrive\\desktop\\csharp-local\\csharp-classes\\stars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6899E424-4AAC-41FA-B55F-1655DDD5D5E5}|Stars\\Stars.csproj|solutionrelative:stars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BBD3E54E-439D-407E-8056-D8DE838ACBE4}|class01\\class01.csproj|c:\\users\\micad\\onedrive\\desktop\\csharp-local\\csharp-classes\\class01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BBD3E54E-439D-407E-8056-D8DE838ACBE4}|class01\\class01.csproj|solutionrelative:class01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -20,11 +24,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\csharp-local\\csharp-classes\\Stars\\Program.cs",
+              "RelativeDocumentMoniker": "Stars\\Program.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\csharp-local\\csharp-classes\\Stars\\Program.cs",
+              "RelativeToolTip": "Stars\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T12:44:14.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\csharp-local\\csharp-classes\\class01\\Program.cs",
               "RelativeDocumentMoniker": "class01\\Program.cs",
               "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\csharp-local\\csharp-classes\\class01\\Program.cs",
               "RelativeToolTip": "class01\\Program.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAADwvxEAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-04T07:22:34.108Z",
               "EditorCaption": ""
