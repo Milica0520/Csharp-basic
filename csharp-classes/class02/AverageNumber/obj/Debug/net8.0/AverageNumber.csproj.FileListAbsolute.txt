@@ -1,0 +1,15 @@
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class02\AverageNumber\bin\Debug\net8.0\AverageNumber.exe
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class02\AverageNumber\bin\Debug\net8.0\AverageNumber.deps.json
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class02\AverageNumber\bin\Debug\net8.0\AverageNumber.runtimeconfig.json
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class02\AverageNumber\bin\Debug\net8.0\AverageNumber.dll
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class02\AverageNumber\bin\Debug\net8.0\AverageNumber.pdb
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class02\AverageNumber\obj\Debug\net8.0\AverageNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class02\AverageNumber\obj\Debug\net8.0\AverageNumber.AssemblyInfoInputs.cache
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class02\AverageNumber\obj\Debug\net8.0\AverageNumber.AssemblyInfo.cs
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class02\AverageNumber\obj\Debug\net8.0\AverageNumber.csproj.CoreCompileInputs.cache
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class02\AverageNumber\obj\Debug\net8.0\AverageNumber.sourcelink.json
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class02\AverageNumber\obj\Debug\net8.0\AverageNumber.dll
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class02\AverageNumber\obj\Debug\net8.0\refint\AverageNumber.dll
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class02\AverageNumber\obj\Debug\net8.0\AverageNumber.pdb
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class02\AverageNumber\obj\Debug\net8.0\AverageNumber.genruntimeconfig.cache
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class02\AverageNumber\obj\Debug\net8.0\ref\AverageNumber.dll
