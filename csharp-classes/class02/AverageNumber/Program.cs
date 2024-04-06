@@ -8,7 +8,9 @@
             Console.WriteLine("Enter four numbers devided by space: ");
             string inputNums = Console.ReadLine();
 
+            
             string[] numbers = inputNums.Split(' ');
+
 
             int sum = 0;
 
@@ -19,7 +21,9 @@
 
             decimal averige = sum / numbers.Length;
 
-            Console.WriteLine($"The average of {string.Join(", ", numbers)} is: {averige}");
+            Console.WriteLine($"The average of {string.Join(", ", numbers)} is: {averige}{inputNums}");
+
+            
 
         }
     }

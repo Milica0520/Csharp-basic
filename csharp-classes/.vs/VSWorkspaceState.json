@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\data-types-exercises\\bin",
+    "\\data-types-exercises\\obj"
   ],
   "SelectedNode": "\\csharp-classes.sln",
   "PreviewInSolutionExplorer": false

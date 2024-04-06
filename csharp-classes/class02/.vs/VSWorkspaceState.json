@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
+    "\\AverageNumber",
     "\\bin",
     "\\obj"
   ],
+  "SelectedNode": "\\AverageNumber\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
