@@ -103,7 +103,7 @@ namespace class03
             Don’t print numbers that can be divided by 3 or 7
             If the number gets to 100 print a message: The limit is reached and stop counting
              */
-       
+       /*
             Console.WriteLine("Enter number: ");
             int iputNum4 = int.Parse(Console.ReadLine());
 
@@ -127,6 +127,7 @@ namespace class03
                 Console.WriteLine(j);
                 j++;
             }
+       */
             /*
             int[] nymberArr = new int[5];
 
@@ -157,7 +158,7 @@ namespace class03
             With true / false values
             */
 
-
+            /*
             string[] nymbersArray = new string[5];
 
             decimal[] decimalArray = new decimal[5];
@@ -165,7 +166,7 @@ namespace class03
             char[] charArray = new char[5];
 
             bool[] booleanArray = new bool[5];
-
+            */
             /*
             Exercise 2:
  
@@ -204,20 +205,27 @@ namespace class03
             Print all the names after user enters N
             */
 
-            /*
-            Console.WriteLine("Enter name: ");
-            string inputName = Console.ReadLine();
-
-            string[] names = new string[0] ;
+           
+            string[] names = new string[] {} ;
 
             for (int i = 0; i < names.Length; i++)
             {
-                
+                Console.WriteLine("Enter name: ");
+                string inputName = Console.ReadLine();
                 names[i] = inputName;
+                if(inputName == "N" && inputName == "n")
+                {
+                    foreach (string item in names)
+                    {
+                        Console.WriteLine(names[i]);
+                    }
+                }
+               
             }
+            
 
-            Console.WriteLine("Enter another name: ");
-            */
+         //   Console.WriteLine("Enter another name: ");
+            
     
 
         }

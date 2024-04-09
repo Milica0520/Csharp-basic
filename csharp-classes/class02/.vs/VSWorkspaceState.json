@@ -2,9 +2,7 @@
   "ExpandedNodes": [
     "",
     "\\AverageNumber",
-    "\\bin",
-    "\\obj"
+    "\\RealCalculator"
   ],
-  "SelectedNode": "\\AverageNumber\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

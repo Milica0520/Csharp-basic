@@ -1,0 +1,5 @@
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class02\RealCalculator\obj\Release\net8.0\RealCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class02\RealCalculator\obj\Release\net8.0\RealCalculator.AssemblyInfoInputs.cache
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class02\RealCalculator\obj\Release\net8.0\RealCalculator.AssemblyInfo.cs
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class02\RealCalculator\obj\Release\net8.0\RealCalculator.csproj.CoreCompileInputs.cache
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class02\RealCalculator\obj\Release\net8.0\RealCalculator.sourcelink.json

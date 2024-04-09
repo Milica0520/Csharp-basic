@@ -15,22 +15,23 @@
             Console.WriteLine("Enter the Operation (+, - , * , / ): ");
            string operationInp =Console.ReadLine();
 
+            double result = 0;
             switch (operationInp) {
                 case "+":
-                    Console.WriteLine(inputNum1 + inputNum2);
+                    result = inputNum1 + inputNum2;
                     break;
                 case "-":
-                    Console.WriteLine(inputNum1 - inputNum2);
+                   result = inputNum1 - inputNum2;
                     break;
                 case "*":
-                    Console.WriteLine(inputNum1 * inputNum2);
+                   result = inputNum1 * inputNum2;
                     break;
                 case "/":
-                    Console.WriteLine(Math.Round((Convert.ToDecimal(inputNum1) / inputNum2),2, MidpointRounding.AwayFromZero));
+                   result =  inputNum1 / inputNum2;
                     break;
             }
 
-
+            Console.WriteLine($"Result is : {result}");
         }
     }
 }

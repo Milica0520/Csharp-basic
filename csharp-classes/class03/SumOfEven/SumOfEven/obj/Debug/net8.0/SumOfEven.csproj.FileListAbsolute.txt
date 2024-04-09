@@ -1,0 +1,15 @@
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class03\SumOfEven\SumOfEven\bin\Debug\net8.0\SumOfEven.exe
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class03\SumOfEven\SumOfEven\bin\Debug\net8.0\SumOfEven.deps.json
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class03\SumOfEven\SumOfEven\bin\Debug\net8.0\SumOfEven.runtimeconfig.json
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class03\SumOfEven\SumOfEven\bin\Debug\net8.0\SumOfEven.dll
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class03\SumOfEven\SumOfEven\bin\Debug\net8.0\SumOfEven.pdb
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class03\SumOfEven\SumOfEven\obj\Debug\net8.0\SumOfEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class03\SumOfEven\SumOfEven\obj\Debug\net8.0\SumOfEven.AssemblyInfoInputs.cache
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class03\SumOfEven\SumOfEven\obj\Debug\net8.0\SumOfEven.AssemblyInfo.cs
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class03\SumOfEven\SumOfEven\obj\Debug\net8.0\SumOfEven.csproj.CoreCompileInputs.cache
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class03\SumOfEven\SumOfEven\obj\Debug\net8.0\SumOfEven.sourcelink.json
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class03\SumOfEven\SumOfEven\obj\Debug\net8.0\SumOfEven.dll
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class03\SumOfEven\SumOfEven\obj\Debug\net8.0\refint\SumOfEven.dll
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class03\SumOfEven\SumOfEven\obj\Debug\net8.0\SumOfEven.pdb
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class03\SumOfEven\SumOfEven\obj\Debug\net8.0\SumOfEven.genruntimeconfig.cache
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class03\SumOfEven\SumOfEven\obj\Debug\net8.0\ref\SumOfEven.dll
