@@ -1,0 +1,15 @@
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class04\WorkingWitthDates\bin\Debug\net8.0\WorkingWitthDates.exe
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class04\WorkingWitthDates\bin\Debug\net8.0\WorkingWitthDates.deps.json
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class04\WorkingWitthDates\bin\Debug\net8.0\WorkingWitthDates.runtimeconfig.json
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class04\WorkingWitthDates\bin\Debug\net8.0\WorkingWitthDates.dll
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class04\WorkingWitthDates\bin\Debug\net8.0\WorkingWitthDates.pdb
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class04\WorkingWitthDates\obj\Debug\net8.0\WorkingWitthDates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class04\WorkingWitthDates\obj\Debug\net8.0\WorkingWitthDates.AssemblyInfoInputs.cache
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class04\WorkingWitthDates\obj\Debug\net8.0\WorkingWitthDates.AssemblyInfo.cs
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class04\WorkingWitthDates\obj\Debug\net8.0\WorkingWitthDates.csproj.CoreCompileInputs.cache
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class04\WorkingWitthDates\obj\Debug\net8.0\WorkingWitthDates.sourcelink.json
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class04\WorkingWitthDates\obj\Debug\net8.0\WorkingWitthDates.dll
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class04\WorkingWitthDates\obj\Debug\net8.0\refint\WorkingWitthDates.dll
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class04\WorkingWitthDates\obj\Debug\net8.0\WorkingWitthDates.pdb
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class04\WorkingWitthDates\obj\Debug\net8.0\WorkingWitthDates.genruntimeconfig.cache
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class04\WorkingWitthDates\obj\Debug\net8.0\ref\WorkingWitthDates.dll

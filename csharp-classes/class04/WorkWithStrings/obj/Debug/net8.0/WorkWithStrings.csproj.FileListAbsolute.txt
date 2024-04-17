@@ -1,0 +1,15 @@
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class04\WorkWithStrings\bin\Debug\net8.0\WorkWithStrings.exe
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class04\WorkWithStrings\bin\Debug\net8.0\WorkWithStrings.deps.json
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class04\WorkWithStrings\bin\Debug\net8.0\WorkWithStrings.runtimeconfig.json
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class04\WorkWithStrings\bin\Debug\net8.0\WorkWithStrings.dll
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class04\WorkWithStrings\bin\Debug\net8.0\WorkWithStrings.pdb
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class04\WorkWithStrings\obj\Debug\net8.0\WorkWithStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class04\WorkWithStrings\obj\Debug\net8.0\WorkWithStrings.AssemblyInfoInputs.cache
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class04\WorkWithStrings\obj\Debug\net8.0\WorkWithStrings.AssemblyInfo.cs
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class04\WorkWithStrings\obj\Debug\net8.0\WorkWithStrings.csproj.CoreCompileInputs.cache
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class04\WorkWithStrings\obj\Debug\net8.0\WorkWithStrings.sourcelink.json
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class04\WorkWithStrings\obj\Debug\net8.0\WorkWithStrings.dll
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class04\WorkWithStrings\obj\Debug\net8.0\refint\WorkWithStrings.dll
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class04\WorkWithStrings\obj\Debug\net8.0\WorkWithStrings.pdb
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class04\WorkWithStrings\obj\Debug\net8.0\WorkWithStrings.genruntimeconfig.cache
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class04\WorkWithStrings\obj\Debug\net8.0\ref\WorkWithStrings.dll

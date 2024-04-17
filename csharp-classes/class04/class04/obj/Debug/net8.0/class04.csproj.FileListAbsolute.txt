@@ -1,0 +1,15 @@
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class04\class04\bin\Debug\net8.0\class04.exe
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class04\class04\bin\Debug\net8.0\class04.deps.json
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class04\class04\bin\Debug\net8.0\class04.runtimeconfig.json
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class04\class04\bin\Debug\net8.0\class04.dll
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class04\class04\bin\Debug\net8.0\class04.pdb
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class04\class04\obj\Debug\net8.0\class04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class04\class04\obj\Debug\net8.0\class04.AssemblyInfoInputs.cache
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class04\class04\obj\Debug\net8.0\class04.AssemblyInfo.cs
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class04\class04\obj\Debug\net8.0\class04.csproj.CoreCompileInputs.cache
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class04\class04\obj\Debug\net8.0\class04.sourcelink.json
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class04\class04\obj\Debug\net8.0\class04.dll
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class04\class04\obj\Debug\net8.0\refint\class04.dll
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class04\class04\obj\Debug\net8.0\class04.pdb
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class04\class04\obj\Debug\net8.0\class04.genruntimeconfig.cache
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\class04\class04\obj\Debug\net8.0\ref\class04.dll

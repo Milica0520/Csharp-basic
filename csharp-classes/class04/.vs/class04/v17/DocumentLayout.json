@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\micad\\OneDrive\\Desktop\\csharp-local\\csharp-classes\\class04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6AD90B17-978D-4456-AB1E-EECD01468A53}|AgeCalculator\\AgeCalculator.csproj|c:\\users\\micad\\onedrive\\desktop\\csharp-local\\csharp-classes\\class04\\agecalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AD90B17-978D-4456-AB1E-EECD01468A53}|AgeCalculator\\AgeCalculator.csproj|solutionrelative:agecalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8B03F6-E70E-4AD3-BE2B-C2D195551D56}|WorkWithStrings\\WorkWithStrings.csproj|c:\\users\\micad\\onedrive\\desktop\\csharp-local\\csharp-classes\\class04\\workwithstrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8B03F6-E70E-4AD3-BE2B-C2D195551D56}|WorkWithStrings\\WorkWithStrings.csproj|solutionrelative:workwithstrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0711BCE5-716E-4CFD-87B3-B41D091179F6}|WorkingWitthDates\\WorkingWitthDates.csproj|c:\\users\\micad\\onedrive\\desktop\\csharp-local\\csharp-classes\\class04\\workingwitthdates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0711BCE5-716E-4CFD-87B3-B41D091179F6}|WorkingWitthDates\\WorkingWitthDates.csproj|solutionrelative:workingwitthdates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8B03F6-E70E-4AD3-BE2B-C2D195551D56}|WorkWithStrings\\WorkWithStrings.csproj|c:\\users\\micad\\onedrive\\desktop\\csharp-local\\csharp-classes\\class04\\workwithstrings\\workwithstrings.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2F8B03F6-E70E-4AD3-BE2B-C2D195551D56}|WorkWithStrings\\WorkWithStrings.csproj|solutionrelative:workwithstrings\\workwithstrings.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F411F8C-3354-4CEC-ABEF-7DDFF58DD109}|class04\\class04.csproj|c:\\users\\micad\\onedrive\\desktop\\csharp-local\\csharp-classes\\class04\\class04\\class04.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6F411F8C-3354-4CEC-ABEF-7DDFF58DD109}|class04\\class04.csproj|solutionrelative:class04\\class04.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F411F8C-3354-4CEC-ABEF-7DDFF58DD109}|class04\\class04.csproj|c:\\users\\micad\\onedrive\\desktop\\csharp-local\\csharp-classes\\class04\\class04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F411F8C-3354-4CEC-ABEF-7DDFF58DD109}|class04\\class04.csproj|solutionrelative:class04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\csharp-local\\csharp-classes\\class04\\AgeCalculator\\Program.cs",
+              "RelativeDocumentMoniker": "AgeCalculator\\Program.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\csharp-local\\csharp-classes\\class04\\AgeCalculator\\Program.cs",
+              "RelativeToolTip": "AgeCalculator\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T07:45:24.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WorkWithStrings.csproj",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\csharp-local\\csharp-classes\\class04\\WorkWithStrings\\WorkWithStrings.csproj",
+              "RelativeDocumentMoniker": "WorkWithStrings\\WorkWithStrings.csproj",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\csharp-local\\csharp-classes\\class04\\WorkWithStrings\\WorkWithStrings.csproj",
+              "RelativeToolTip": "WorkWithStrings\\WorkWithStrings.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-17T07:40:03.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "class04.csproj",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\csharp-local\\csharp-classes\\class04\\class04\\class04.csproj",
+              "RelativeDocumentMoniker": "class04\\class04.csproj",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\csharp-local\\csharp-classes\\class04\\class04\\class04.csproj",
+              "RelativeToolTip": "class04\\class04.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-17T07:39:57.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\csharp-local\\csharp-classes\\class04\\WorkingWitthDates\\Program.cs",
+              "RelativeDocumentMoniker": "WorkingWitthDates\\Program.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\csharp-local\\csharp-classes\\class04\\WorkingWitthDates\\Program.cs",
+              "RelativeToolTip": "WorkingWitthDates\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T15:54:52.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\csharp-local\\csharp-classes\\class04\\WorkWithStrings\\Program.cs",
+              "RelativeDocumentMoniker": "WorkWithStrings\\Program.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\csharp-local\\csharp-classes\\class04\\WorkWithStrings\\Program.cs",
+              "RelativeToolTip": "WorkWithStrings\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T16:35:51.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\csharp-local\\csharp-classes\\class04\\class04\\Program.cs",
+              "RelativeDocumentMoniker": "class04\\Program.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\csharp-local\\csharp-classes\\class04\\class04\\Program.cs",
+              "RelativeToolTip": "class04\\Program.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAQwDsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T15:26:45.693Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
