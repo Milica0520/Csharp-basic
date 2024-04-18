@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwapNumbers", "class02\Swap
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "class03", "class03\class03.csproj", "{89CBAAED-4C0F-4CE3-8997-EFE5823C66E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassesOOP", "ClassesOOP\ClassesOOP.csproj", "{3DD90C55-6D97-4B12-812F-29FCD24DC670}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassesOOP", "ClassesOOP\ClassesOOP.csproj", "{3DD90C55-6D97-4B12-812F-29FCD24DC670}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeworkClass05", "HomeworkClass05\HomeworkClass05.csproj", "{EA5C2A74-99D4-4368-B646-6EA4F585C422}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{3DD90C55-6D97-4B12-812F-29FCD24DC670}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3DD90C55-6D97-4B12-812F-29FCD24DC670}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3DD90C55-6D97-4B12-812F-29FCD24DC670}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA5C2A74-99D4-4368-B646-6EA4F585C422}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA5C2A74-99D4-4368-B646-6EA4F585C422}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA5C2A74-99D4-4368-B646-6EA4F585C422}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA5C2A74-99D4-4368-B646-6EA4F585C422}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
