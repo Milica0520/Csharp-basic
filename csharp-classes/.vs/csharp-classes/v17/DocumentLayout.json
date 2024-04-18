@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\micad\\OneDrive\\Desktop\\csharp-local\\csharp-classes\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C290EC77-6E9E-4263-BFAD-13BAB75423E7}|class07\\class07.csproj|c:\\users\\micad\\onedrive\\desktop\\csharp-local\\csharp-classes\\class07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C290EC77-6E9E-4263-BFAD-13BAB75423E7}|class07\\class07.csproj|solutionrelative:class07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C290EC77-6E9E-4263-BFAD-13BAB75423E7}|class07\\class07.csproj|c:\\users\\micad\\onedrive\\desktop\\csharp-local\\csharp-classes\\class07\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C290EC77-6E9E-4263-BFAD-13BAB75423E7}|class07\\class07.csproj|solutionrelative:class07\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C290EC77-6E9E-4263-BFAD-13BAB75423E7}|class07\\class07.csproj|c:\\users\\micad\\onedrive\\desktop\\csharp-local\\csharp-classes\\class07\\models\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C290EC77-6E9E-4263-BFAD-13BAB75423E7}|class07\\class07.csproj|solutionrelative:class07\\models\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EA5C2A74-99D4-4368-B646-6EA4F585C422}|HomeworkClass05\\HomeworkClass05.csproj|c:\\users\\micad\\onedrive\\desktop\\csharp-local\\csharp-classes\\homeworkclass05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA5C2A74-99D4-4368-B646-6EA4F585C422}|HomeworkClass05\\HomeworkClass05.csproj|solutionrelative:homeworkclass05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C290EC77-6E9E-4263-BFAD-13BAB75423E7}|class07\\class07.csproj|c:\\users\\micad\\onedrive\\desktop\\csharp-local\\csharp-classes\\class07\\models\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C290EC77-6E9E-4263-BFAD-13BAB75423E7}|class07\\class07.csproj|solutionrelative:class07\\models\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EA5C2A74-99D4-4368-B646-6EA4F585C422}|HomeworkClass05\\HomeworkClass05.csproj|c:\\users\\micad\\onedrive\\desktop\\csharp-local\\csharp-classes\\homeworkclass05\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,11 +38,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\csharp-local\\csharp-classes\\class07\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "class07\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\csharp-local\\csharp-classes\\class07\\Models\\Student.cs",
+              "RelativeToolTip": "class07\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T17:39:43.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\csharp-local\\csharp-classes\\class07\\Models\\Dog.cs",
+              "RelativeDocumentMoniker": "class07\\Models\\Dog.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\csharp-local\\csharp-classes\\class07\\Models\\Dog.cs",
+              "RelativeToolTip": "class07\\Models\\Dog.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T17:15:35.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Human.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\csharp-local\\csharp-classes\\class07\\Models\\Human.cs",
+              "RelativeDocumentMoniker": "class07\\Models\\Human.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\csharp-local\\csharp-classes\\class07\\Models\\Human.cs",
+              "RelativeToolTip": "class07\\Models\\Human.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:34:18.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\csharp-local\\csharp-classes\\class07\\Program.cs",
+              "RelativeDocumentMoniker": "class07\\Program.cs",
+              "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\csharp-local\\csharp-classes\\class07\\Program.cs",
+              "RelativeToolTip": "class07\\Program.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAQwDoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T15:24:03.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Car.cs",
               "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\csharp-local\\csharp-classes\\HomeworkClass05\\Models\\Car.cs",
               "RelativeDocumentMoniker": "HomeworkClass05\\Models\\Car.cs",
@@ -39,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Driver.cs",
               "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\csharp-local\\csharp-classes\\HomeworkClass05\\Models\\Driver.cs",
               "RelativeDocumentMoniker": "HomeworkClass05\\Models\\Driver.cs",
@@ -47,18 +115,17 @@
               "RelativeToolTip": "HomeworkClass05\\Models\\Driver.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T19:27:13.246Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-17T19:27:13.246Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\micad\\OneDrive\\Desktop\\csharp-local\\csharp-classes\\HomeworkClass05\\Program.cs",
               "RelativeDocumentMoniker": "HomeworkClass05\\Program.cs",
               "ToolTip": "C:\\Users\\micad\\OneDrive\\Desktop\\csharp-local\\csharp-classes\\HomeworkClass05\\Program.cs",
               "RelativeToolTip": "HomeworkClass05\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAARAAAA",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwC4AAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-17T19:26:17.309Z",
               "EditorCaption": ""
