@@ -1,6 +1,13 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ATM",
+    "\\ATM\\Models",
+    "\\class07",
+    "\\class08Inheretance",
+    "\\CommonModels",
+    "\\CommonModels\\Models",
+    "\\HomeworkClass05\\Models"
   ],
   "SelectedNode": "\\csharp-classes.sln",
   "PreviewInSolutionExplorer": false

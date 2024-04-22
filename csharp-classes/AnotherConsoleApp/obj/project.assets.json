@@ -1,0 +1,96 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "CommonModels/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CommonModels.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CommonModels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CommonModels/1.0.0": {
+      "type": "project",
+      "path": "../CommonModels/CommonModels.csproj",
+      "msbuildProject": "../CommonModels/CommonModels.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "CommonModels >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\micad\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\micad\\OneDrive\\Desktop\\csharp-local\\csharp-classes\\AnotherConsoleApp\\AnotherConsoleApp.csproj",
+      "projectName": "AnotherConsoleApp",
+      "projectPath": "C:\\Users\\micad\\OneDrive\\Desktop\\csharp-local\\csharp-classes\\AnotherConsoleApp\\AnotherConsoleApp.csproj",
+      "packagesPath": "C:\\Users\\micad\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\micad\\OneDrive\\Desktop\\csharp-local\\csharp-classes\\AnotherConsoleApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\micad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\micad\\OneDrive\\Desktop\\csharp-local\\csharp-classes\\CommonModels\\CommonModels.csproj": {
+              "projectPath": "C:\\Users\\micad\\OneDrive\\Desktop\\csharp-local\\csharp-classes\\CommonModels\\CommonModels.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
