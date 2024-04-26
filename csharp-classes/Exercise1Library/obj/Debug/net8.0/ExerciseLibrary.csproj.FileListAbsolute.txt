@@ -1,0 +1,5 @@
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\Exercise1Library\obj\Debug\net8.0\ExerciseLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\Exercise1Library\obj\Debug\net8.0\ExerciseLibrary.AssemblyInfoInputs.cache
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\Exercise1Library\obj\Debug\net8.0\ExerciseLibrary.AssemblyInfo.cs
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\Exercise1Library\obj\Debug\net8.0\ExerciseLibrary.csproj.CoreCompileInputs.cache
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\Exercise1Library\obj\Debug\net8.0\ExerciseLibrary.sourcelink.json

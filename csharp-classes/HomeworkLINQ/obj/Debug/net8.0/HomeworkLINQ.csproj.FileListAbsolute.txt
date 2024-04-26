@@ -1,0 +1,15 @@
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\HomeworkLINQ\bin\Debug\net8.0\HomeworkLINQ.exe
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\HomeworkLINQ\bin\Debug\net8.0\HomeworkLINQ.deps.json
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\HomeworkLINQ\bin\Debug\net8.0\HomeworkLINQ.runtimeconfig.json
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\HomeworkLINQ\bin\Debug\net8.0\HomeworkLINQ.dll
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\HomeworkLINQ\bin\Debug\net8.0\HomeworkLINQ.pdb
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\HomeworkLINQ\obj\Debug\net8.0\HomeworkLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\HomeworkLINQ\obj\Debug\net8.0\HomeworkLINQ.AssemblyInfoInputs.cache
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\HomeworkLINQ\obj\Debug\net8.0\HomeworkLINQ.AssemblyInfo.cs
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\HomeworkLINQ\obj\Debug\net8.0\HomeworkLINQ.csproj.CoreCompileInputs.cache
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\HomeworkLINQ\obj\Debug\net8.0\HomeworkLINQ.sourcelink.json
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\HomeworkLINQ\obj\Debug\net8.0\HomeworkLINQ.dll
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\HomeworkLINQ\obj\Debug\net8.0\refint\HomeworkLINQ.dll
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\HomeworkLINQ\obj\Debug\net8.0\HomeworkLINQ.pdb
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\HomeworkLINQ\obj\Debug\net8.0\HomeworkLINQ.genruntimeconfig.cache
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\HomeworkLINQ\obj\Debug\net8.0\ref\HomeworkLINQ.dll

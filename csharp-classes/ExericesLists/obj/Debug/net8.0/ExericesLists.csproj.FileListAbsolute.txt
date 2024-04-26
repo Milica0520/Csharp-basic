@@ -1,0 +1,15 @@
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\ExericesLists\bin\Debug\net8.0\ExericesLists.exe
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\ExericesLists\bin\Debug\net8.0\ExericesLists.deps.json
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\ExericesLists\bin\Debug\net8.0\ExericesLists.runtimeconfig.json
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\ExericesLists\bin\Debug\net8.0\ExericesLists.dll
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\ExericesLists\bin\Debug\net8.0\ExericesLists.pdb
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\ExericesLists\obj\Debug\net8.0\ExericesLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\ExericesLists\obj\Debug\net8.0\ExericesLists.AssemblyInfoInputs.cache
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\ExericesLists\obj\Debug\net8.0\ExericesLists.AssemblyInfo.cs
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\ExericesLists\obj\Debug\net8.0\ExericesLists.csproj.CoreCompileInputs.cache
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\ExericesLists\obj\Debug\net8.0\ExericesLists.sourcelink.json
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\ExericesLists\obj\Debug\net8.0\ExericesLists.dll
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\ExericesLists\obj\Debug\net8.0\refint\ExericesLists.dll
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\ExericesLists\obj\Debug\net8.0\ExericesLists.pdb
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\ExericesLists\obj\Debug\net8.0\ExericesLists.genruntimeconfig.cache
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\ExericesLists\obj\Debug\net8.0\ref\ExericesLists.dll

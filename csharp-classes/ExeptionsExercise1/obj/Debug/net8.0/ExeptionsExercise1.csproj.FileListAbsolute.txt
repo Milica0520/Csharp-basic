@@ -1,0 +1,15 @@
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\ExeptionsExercise1\bin\Debug\net8.0\ExeptionsExercise1.exe
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\ExeptionsExercise1\bin\Debug\net8.0\ExeptionsExercise1.deps.json
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\ExeptionsExercise1\bin\Debug\net8.0\ExeptionsExercise1.runtimeconfig.json
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\ExeptionsExercise1\bin\Debug\net8.0\ExeptionsExercise1.dll
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\ExeptionsExercise1\bin\Debug\net8.0\ExeptionsExercise1.pdb
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\ExeptionsExercise1\obj\Debug\net8.0\ExeptionsExercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\ExeptionsExercise1\obj\Debug\net8.0\ExeptionsExercise1.AssemblyInfoInputs.cache
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\ExeptionsExercise1\obj\Debug\net8.0\ExeptionsExercise1.AssemblyInfo.cs
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\ExeptionsExercise1\obj\Debug\net8.0\ExeptionsExercise1.csproj.CoreCompileInputs.cache
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\ExeptionsExercise1\obj\Debug\net8.0\ExeptionsExercise1.sourcelink.json
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\ExeptionsExercise1\obj\Debug\net8.0\ExeptionsExercise1.dll
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\ExeptionsExercise1\obj\Debug\net8.0\refint\ExeptionsExercise1.dll
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\ExeptionsExercise1\obj\Debug\net8.0\ExeptionsExercise1.pdb
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\ExeptionsExercise1\obj\Debug\net8.0\ExeptionsExercise1.genruntimeconfig.cache
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\ExeptionsExercise1\obj\Debug\net8.0\ref\ExeptionsExercise1.dll
