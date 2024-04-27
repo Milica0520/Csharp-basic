@@ -1,0 +1,15 @@
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\RaceApp\bin\Debug\net8.0\RaceApp.exe
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\RaceApp\bin\Debug\net8.0\RaceApp.deps.json
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\RaceApp\bin\Debug\net8.0\RaceApp.runtimeconfig.json
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\RaceApp\bin\Debug\net8.0\RaceApp.dll
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\RaceApp\bin\Debug\net8.0\RaceApp.pdb
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\RaceApp\obj\Debug\net8.0\RaceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\RaceApp\obj\Debug\net8.0\RaceApp.AssemblyInfoInputs.cache
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\RaceApp\obj\Debug\net8.0\RaceApp.AssemblyInfo.cs
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\RaceApp\obj\Debug\net8.0\RaceApp.csproj.CoreCompileInputs.cache
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\RaceApp\obj\Debug\net8.0\RaceApp.sourcelink.json
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\RaceApp\obj\Debug\net8.0\RaceApp.dll
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\RaceApp\obj\Debug\net8.0\refint\RaceApp.dll
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\RaceApp\obj\Debug\net8.0\RaceApp.pdb
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\RaceApp\obj\Debug\net8.0\RaceApp.genruntimeconfig.cache
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\RaceApp\obj\Debug\net8.0\ref\RaceApp.dll
