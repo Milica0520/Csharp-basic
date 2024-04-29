@@ -3,3 +3,17 @@ C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\ExercisesInteritance
 C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\ExercisesInteritance\obj\Debug\net8.0\ExercisesInteritance.AssemblyInfo.cs
 C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\ExercisesInteritance\obj\Debug\net8.0\ExercisesInteritance.csproj.CoreCompileInputs.cache
 C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\ExercisesInteritance\obj\Debug\net8.0\ExercisesInteritance.sourcelink.json
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\ExercisesInteritance\bin\Debug\net8.0\ExercisesInteritance.exe
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\ExercisesInteritance\bin\Debug\net8.0\ExercisesInteritance.deps.json
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\ExercisesInteritance\bin\Debug\net8.0\ExercisesInteritance.runtimeconfig.json
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\ExercisesInteritance\bin\Debug\net8.0\ExercisesInteritance.dll
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\ExercisesInteritance\bin\Debug\net8.0\ExercisesInteritance.pdb
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\ExercisesInteritance\bin\Debug\net8.0\ExerciseLibrary.dll
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\ExercisesInteritance\bin\Debug\net8.0\ExerciseLibrary.pdb
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\ExercisesInteritance\obj\Debug\net8.0\ExercisesInteritance.csproj.AssemblyReference.cache
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\ExercisesInteritance\obj\Debug\net8.0\Exercise.CC2F80FC.Up2Date
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\ExercisesInteritance\obj\Debug\net8.0\ExercisesInteritance.dll
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\ExercisesInteritance\obj\Debug\net8.0\refint\ExercisesInteritance.dll
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\ExercisesInteritance\obj\Debug\net8.0\ExercisesInteritance.pdb
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\ExercisesInteritance\obj\Debug\net8.0\ExercisesInteritance.genruntimeconfig.cache
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\ExercisesInteritance\obj\Debug\net8.0\ref\ExercisesInteritance.dll

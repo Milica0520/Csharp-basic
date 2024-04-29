@@ -51,7 +51,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework04", "Homework04\Ho
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Homework5", "Homework5", "{B28FF534-225C-4B3E-86FB-45B30B640581}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaceApp", "RaceApp\RaceApp.csproj", "{29A43FE3-6575-4B38-BFA0-34AC44E0508E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RaceApp", "RaceApp\RaceApp.csproj", "{29A43FE3-6575-4B38-BFA0-34AC44E0508E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankAccount", "BancAccount\BankAccount.csproj", "{818875AB-C901-48B2-BEF5-7F121E26D860}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -155,6 +157,10 @@ Global
 		{29A43FE3-6575-4B38-BFA0-34AC44E0508E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29A43FE3-6575-4B38-BFA0-34AC44E0508E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29A43FE3-6575-4B38-BFA0-34AC44E0508E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{818875AB-C901-48B2-BEF5-7F121E26D860}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{818875AB-C901-48B2-BEF5-7F121E26D860}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{818875AB-C901-48B2-BEF5-7F121E26D860}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{818875AB-C901-48B2-BEF5-7F121E26D860}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

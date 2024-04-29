@@ -3,3 +3,10 @@ C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\Exercise1Library\obj
 C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\Exercise1Library\obj\Debug\net8.0\ExerciseLibrary.AssemblyInfo.cs
 C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\Exercise1Library\obj\Debug\net8.0\ExerciseLibrary.csproj.CoreCompileInputs.cache
 C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\Exercise1Library\obj\Debug\net8.0\ExerciseLibrary.sourcelink.json
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\Exercise1Library\bin\Debug\net8.0\ExerciseLibrary.deps.json
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\Exercise1Library\bin\Debug\net8.0\ExerciseLibrary.dll
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\Exercise1Library\bin\Debug\net8.0\ExerciseLibrary.pdb
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\Exercise1Library\obj\Debug\net8.0\ExerciseLibrary.dll
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\Exercise1Library\obj\Debug\net8.0\refint\ExerciseLibrary.dll
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\Exercise1Library\obj\Debug\net8.0\ExerciseLibrary.pdb
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\Exercise1Library\obj\Debug\net8.0\ref\ExerciseLibrary.dll

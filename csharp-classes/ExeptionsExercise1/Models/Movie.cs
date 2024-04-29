@@ -13,11 +13,11 @@ namespace ExeptionsExercise1.Models
         {
 
         }
-        public Movie(string Title, Genre Genre, double TicketPrice, int Rating)
+        public Movie(string title, Genre genre, double ticketPrice, int rating)
         {
-            this.Title = Title;
-            this.Genre = Genre;
-            this.TicketPrice = 5 * Rating;
+            this.Title = title;
+            this.Genre = genre;
+            this.TicketPrice = 5 * rating;
 
             if (Rating > 5 || Rating < 1)
             {

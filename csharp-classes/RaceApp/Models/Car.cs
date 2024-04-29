@@ -26,7 +26,7 @@ namespace RaceApp.Models
 
         public int Speed { get; set; }
 
-        public Driver ObjDriver { get; set; }
+        public Driver? ObjDriver { get; set; }
 
         public void SetDriver(Driver driver)
         {
@@ -34,7 +34,15 @@ namespace RaceApp.Models
         }
         public int CalculateSpeed()
         {
+            if (ObjDriver!= null)
+            {
                 return ObjDriver.Skill * Speed;
+            }
+            else
+            {
+                throw new Exception("You need to choose a driver.");
+            }
+           
        
         }
     }

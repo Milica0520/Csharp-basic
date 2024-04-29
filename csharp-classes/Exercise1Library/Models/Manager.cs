@@ -10,29 +10,29 @@ namespace ExerciseLibrary.Models
 {
     public class Manager : Employee
     {
-        public Manager()
+
+        public Manager():base()
         {
             
         }
-        public Manager(string FirstName, string LastName, Role Role)
+        public Manager(string firstName, string lastName, Role role, double salary) :base(firstName, lastName,  role, salary)
         {
-            FirstName = FirstName;
-            LastName = LastName;
-            Role = Role;
-            Salary = 500;
+            FirstName = firstName;
+            LastName = lastName;
+            Role = role;
+            Salary = salary;
         }
+        private double Bonus { get; set; }
 
-
-        double Bonus { get; set; }
-
+    
+        public void AddBonus(double bonus)
+        {
+            Bonus = bonus;
+        }
 
         public override double GetSalary()
         {
-
-            base.GetSalary();
             return Salary + Bonus;
         }
-
-
     }
 }

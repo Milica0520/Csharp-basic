@@ -20,16 +20,25 @@ namespace ExeptionsExercise1
              new Movie("Alien: Romulus",Enums. Genre.Horror,10, 4),
              new Movie("Civil War",Enums.Genre.Action,16, 3),
              new Movie("Oppenheimer", Enums.Genre.Drama,10, 2),
-             new Movie("Interstellar",Enums. Genre.SciFi,10, 1)
+             new Movie("Interstellar",Enums. Genre.SciFi,10, 1),
+            
              };
 
             Cinema cinema1 = new Cinema("Cinestar", "StarHall", movies);
+
+
 
 
             Console.WriteLine("Choose cinema: ");
             string cinemaInp = Console.ReadLine();//pretpostavimo da je uneseno cinema1
             Console.WriteLine("Would you like to see all movies or by genre? ");
             string userInp = Console.ReadLine();
+
+            if (cinemaInp == " " || userInp == " ")
+            {
+                throw new Exception("Fields can not be empty. Please enter some data.");
+            }
+
 
 
             if (userInp == "all movies")
@@ -82,8 +91,6 @@ namespace ExeptionsExercise1
                         Console.WriteLine("Enter number for genre from 1 to 5.");
                         break;
                 }
-
-
                 List<Movie> moviesByGenre = cinema1.ListOfMovies.Where(movie => movie.Genre == userSelectedGenre).ToList();
 
                 foreach (Movie movie in moviesByGenre)
@@ -99,12 +106,14 @@ namespace ExeptionsExercise1
                     if (moveByGenreInp == movie.Title)
                         cinema1.MoviePlaying(movie);
                 }
-
             }
 
-
-
         }
+
+
+
+
+
     }
 }
 

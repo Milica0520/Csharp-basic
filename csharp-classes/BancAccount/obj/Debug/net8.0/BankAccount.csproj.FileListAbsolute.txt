@@ -1,0 +1,15 @@
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\BancAccount\bin\Debug\net8.0\BankAccount.exe
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\BancAccount\bin\Debug\net8.0\BankAccount.deps.json
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\BancAccount\bin\Debug\net8.0\BankAccount.runtimeconfig.json
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\BancAccount\bin\Debug\net8.0\BankAccount.dll
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\BancAccount\bin\Debug\net8.0\BankAccount.pdb
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\BancAccount\obj\Debug\net8.0\BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\BancAccount\obj\Debug\net8.0\BankAccount.AssemblyInfoInputs.cache
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\BancAccount\obj\Debug\net8.0\BankAccount.AssemblyInfo.cs
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\BancAccount\obj\Debug\net8.0\BankAccount.csproj.CoreCompileInputs.cache
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\BancAccount\obj\Debug\net8.0\BankAccount.sourcelink.json
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\BancAccount\obj\Debug\net8.0\BankAccount.dll
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\BancAccount\obj\Debug\net8.0\refint\BankAccount.dll
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\BancAccount\obj\Debug\net8.0\BankAccount.pdb
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\BancAccount\obj\Debug\net8.0\BankAccount.genruntimeconfig.cache
+C:\Users\micad\OneDrive\Desktop\csharp-local\csharp-classes\BancAccount\obj\Debug\net8.0\ref\BankAccount.dll

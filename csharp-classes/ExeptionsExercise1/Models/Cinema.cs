@@ -11,26 +11,26 @@ namespace ExeptionsExercise1.Models
     {
         public Cinema()
         {
-            
+
         }
-        public Cinema(string Name, string Halls, List<Movie> ListOfMovies)
+        public Cinema(string name, string halls, List<Movie> listOfMovies)
         {
-            this.Name = Name;
-            this.Halls = Halls;
-            this.ListOfMovies = ListOfMovies;
+            Name = name;
+            Halls = halls;
+            ListOfMovies = listOfMovies;
         }
-        public string Name { get; set;  }
+        public string Name { get; set; }
 
         public string Halls { get; set; }
 
         public List<Movie> ListOfMovies { get; set; }
 
-        public void MoviePlaying (Movie movie)
+        public void MoviePlaying(Movie Movie)
         {
-             Console.WriteLine($"The {movie.Title} is playing");
+            Console.WriteLine($"The {Movie.Title} is playing");
 
         }
 
-      
+
     }
 }

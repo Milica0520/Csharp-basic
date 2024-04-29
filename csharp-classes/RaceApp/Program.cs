@@ -32,10 +32,10 @@ namespace RaceApp
         {
             List<Car> cars = new List<Car>()
                 {
-                   new Car(1,"Hyundai", 120, null),
-                   new Car(2,"Mazda", 120, null),
-                   new Car(3,"Ferrari", 120, null),
-                   new Car(4,"Porsche", 120, null),
+                   new Car(1,"Hyundai", 120),
+                   new Car(2,"Mazda", 120),
+                   new Car(3,"Ferrari", 120),
+                   new Car(4,"Porsche", 120),
                 };
 
             List<Driver> drivers = new List<Driver>()

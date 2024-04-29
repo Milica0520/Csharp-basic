@@ -4,16 +4,18 @@ namespace ExerciseLibrary.Models
 {
     public class Employee
     {
+
         public Employee()
         {
             
         }
-        public Employee(string FirstName, string LastName, Role Role)
+        public Employee(string firstName, string lastName, Role role, double salary)
         {
-            FirstName = FirstName;
-            LastName = LastName;
-            Role = Role;
-            Salary = 500;
+            FirstName = firstName;
+            LastName = lastName;
+            Role = role;
+            Salary = salary;
+
         }
         public string FirstName { get; set; }
 
@@ -23,15 +25,15 @@ namespace ExerciseLibrary.Models
 
         protected double Salary { get; set; }
 
-        public void PrintInfo()
+        public string PrintInfo()
         {
-            Console.WriteLine($"Employee info - {FirstName},{LastName} , salary - {Salary}");
+            return $"Employee full name: {FirstName} {LastName} - salary: {Salary}";
+        }
+        virtual public double GetSalary()
+        {
+            return Salary;
         }
 
-        public virtual double GetSalary()
-        {
-            return  Salary;
-        }
 
     }
 }
