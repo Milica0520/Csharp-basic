@@ -9,7 +9,7 @@ namespace ExericesLists.Enums
     public enum Genre
     {
         Rock,
-        HipHop,
+        Hip_Hop,
         Techno,
         Classical,
     }

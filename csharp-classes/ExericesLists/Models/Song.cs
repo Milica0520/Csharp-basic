@@ -14,8 +14,13 @@ namespace ExericesLists.Models
         public double Length { get; set; }
         public Genre Genre { get; set; }
 
-      //konstruktor
-
+        //konstruktor
+        public Song(string title, double length, Genre genre)
+        {
+            Title = title;
+            Length = length;
+            Genre = genre;
+        }
 
     }
 }
